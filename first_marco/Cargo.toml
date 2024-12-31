@@ -1,0 +1,8 @@
+[package]
+name = "first_marco"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+log_time = { path = "../log_time" }
